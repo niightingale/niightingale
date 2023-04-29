@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @niightingale
-- 👀 I’m interested in web and game development.
+- 👀 I’m interested in application and game development.
 - 🌱 I’m currently learning Python, HTML, CSS.
