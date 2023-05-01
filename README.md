@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @niightingale
+- 👋 Hi, I’m @niightingale (Achere Eyong)
 - 👀 I’m interested in application and game development.
 - 🌱 I’m currently learning Python, HTML, CSS.
